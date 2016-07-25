@@ -13,6 +13,6 @@
 5. Download [ChromeDriver](http://chromedriver.storage.googleapis.com/index.html?path=2.22/) and change PATH to include path to chromedriver.
 6. Run tests by 
    
-   - cd <folder where pom.xml is located>
+   - cd to folder with the project
    - mvn clean test -Dsurefire.rerunFailingTestsCount=3
  
